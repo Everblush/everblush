@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Everblush/everblush/tree/main/poster.png">
+<img src="https://github.com/Everblush/everblush/blob/main/poster.png">
 </div> 
 
 <h1 align="center">Everblush</h1> 
