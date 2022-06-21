@@ -6,7 +6,7 @@
 <h4 align="center"><i>A Dark, vibrant and beatufiul colorscheme for your desktop</i></h4> 
 
 # About 
-Everblush is colorscheme like the others in the programmer / ricer's community. But with beautiful syntax highlighting and color's. Everblush was before termed as "UwU" but after the name it has become "Everblush". So, to the old users who might be finding uwU then this is UwU with some of the updates. 
+Everblush is colorscheme like the others in the programmer / ricer's community. But with beautiful syntax highlighting and color's. Everblush was before termed as "UwU" but after the name it has become "Everblush". So, to the old users who might be finding UwU then this is UwU with some of the updates. 
 
 ## Ports 
 # Editor's (most importantly xD)
@@ -39,7 +39,7 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [rofi](https://github.com/Everblush/rofi)
 
 # Wallpaper 
-- [Wallpapers](https://github.com/Everbnlush/wallpapers)
+- [Wallpapers](https://github.com/Everblush/wallpapers)
 
 # Contribution
 - The contribution details will be soon released as they are WIP. 
