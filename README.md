@@ -7,7 +7,7 @@
 
 
 <a align="center" href="https://discord.gg/KmARmpTegP">
-<img alt="Discord" src="https://img.shields.io/discord/989429995925553182?label=Discord&logo=discord&logoColor=%2367b0e8&style=for-the-badge">
+<img alt="Discord" src="https://img.shields.io/discord/989429995925553182?color=%2367b0e8&label=DISCORD&logo=discord&logoColor=%236cb5ed&style=for-the-badge">
 </a> 
 
 # About 
