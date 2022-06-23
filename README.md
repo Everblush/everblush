@@ -3,7 +3,7 @@
 </div> 
 
 <h1 align="center">Everblush</h1> 
-<h4 align="center"><i>A Dark, vibrant and beatufiul colorscheme for your desktop</i></h4> 
+<h4 align="center"><i>A Dark, vibrant and beautiful colorscheme for your desktop</i></h4> 
 
 
 <a align="center" href="https://discord.gg/KmARmpTegP">
