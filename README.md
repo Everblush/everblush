@@ -5,6 +5,11 @@
 <h1 align="center">Everblush</h1> 
 <h4 align="center"><i>A Dark, vibrant and beatufiul colorscheme for your desktop</i></h4> 
 
+<a href="https://discord.gg/KmARmpTegP">
+<img align="center" alt="Discord" src="https://img.shields.io/discord/989429995925553182?label=Discord&logo=discord&logoColor=%2367b0e8&style=for-the-badge">
+</a> 
+
+<div align="center"
 # About 
 Everblush is colorscheme like the others in the programmer / ricer's community. But with beautiful syntax highlighting and color's. Everblush was before termed as "UwU" but after the name it has become "Everblush". So, to the old users who might be finding UwU then this is UwU with some of the updates. 
 
