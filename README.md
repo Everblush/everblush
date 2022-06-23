@@ -15,6 +15,7 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [VsCode](https://github.com/Everblush/vscode)
 - [Obsidian](https://github.com/Everblush/Obsidian) - (markdown editor)
 - [Doom Emacs](https://github.com/Everblush/doomemacs)
+- [Emacs](https://github.com/Everblush/emacs)
 - [Lite-XL](https://github.com/Everblush/lite-xl)
 
 # Terminal Emulators 
