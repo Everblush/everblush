@@ -1,17 +1,18 @@
 <div align="center">
-<img src="https://github.com/Everblush/everblush/blob/main/poster.png">
+<img style="border-radius: 10px" src="./assets/term.png" alt="everblush-syntax">
 </div> 
 
 <h1 align="center">Everblush</h1> 
 <h4 align="center"><i>A Dark, vibrant and beautiful colorscheme for your desktop</i></h4> 
 
-
-<a align="center" href="https://discord.gg/KmARmpTegP">
+<div align="center">
+<a href="https://discord.gg/KmARmpTegP">
 <img alt="Discord" src="https://img.shields.io/discord/989429995925553182?color=%2367b0e8&label=DISCORD&logo=discord&logoColor=%236cb5ed&style=for-the-badge">
-</a> 
+</a>
+</div>
 
 # About 
-Everblush is colorscheme like the others in the unixporn community. But with beautiful syntax highlighting and colors
+Everblush is colorscheme like the others in the ricer's community. But with beautiful syntax highlighting and colors.
 
 ## Ports 
 # Editors
@@ -48,4 +49,8 @@ Everblush is colorscheme like the others in the unixporn community. But with bea
 - [Wallpapers](https://github.com/Everblush/wallpapers)
 
 # Contribution
-- The contribution details will be soon released as they are WIP. 
+- The contribution details will be soon released as they are WIP.
+
+# Credits ❤️
+- [HTMLCOLORCODES](https://htmlcolocodes.com)
+- [Hex-colors](https://siduck.github.io/hex-tools)
