@@ -48,5 +48,5 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 ## Wallpaper 
 - [Wallpapers](https://github.com/Everblush/wallpapers)
 
-##Contribution
+## Contribution
 - The contribution details will be soon released as they are WIP. 
