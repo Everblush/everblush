@@ -17,7 +17,7 @@
 Everblush is colorscheme like the others in the programmer / ricer's community. But with beautiful syntax highlighting and colors.
 
 # Colors
-<table>
+<table align="center">
 <tr>
     <th>Preview</th>
     <th>Variable</th>
