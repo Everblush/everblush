@@ -84,6 +84,7 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
     <td><code>#dadada</code></td>
     <td><code>rgb(218, 218, 218)</code></td>
 </tr>
+</table>
 
 # Ports 
 ## Editors
