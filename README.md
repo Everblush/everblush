@@ -1,6 +1,6 @@
 
 <div align="center">
-<img style="border-radius: 20px; height: 300px;" src="https://raw.githubusercontent.com/Everblush/.github/main/assets/term.png" alt="everblush-syntax">
+<img style="border-radius: 20px; height: 250px;" src="https://raw.githubusercontent.com/Everblush/.github/main/assets/term.png" alt="everblush-syntax">
 </div> 
 
 <h1 align="center">Everblush</h1> 
