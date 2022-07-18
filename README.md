@@ -103,6 +103,7 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [Alacritty](https://github.com/Everblush/terminal-emulators/blob/main/src/alacritty.yml)
 - [Xfce4-Terminal](https://github.com/Everblush/terminal-emulators/tree/main/src/xfce4-terminal)
 - [Xresource](https://github.com/Everblush/terminal-emulators/blob/main/src/Xresources)
+- [Termux](https://github.com/Everblush/termux)
 
 ## GTK 
 - [GTK](https://github.com/Everblush/gtk)
