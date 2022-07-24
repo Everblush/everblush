@@ -104,6 +104,7 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [Xfce4-Terminal](https://github.com/Everblush/terminal-emulators/tree/main/src/xfce4-terminal)
 - [Xresource](https://github.com/Everblush/terminal-emulators/blob/main/src/Xresources)
 - [Termux](https://github.com/Everblush/termux)
+- [Foot](https://github.com/Everblush/terminal-emulators/blob/main/src/foot.ini)
 
 ## GTK 
 - [GTK](https://github.com/Everblush/gtk)
