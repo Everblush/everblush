@@ -1,3 +1,4 @@
+<img align="center" src="./assets/logo.png" alt="logo"> 
 
 <div align="center">
 <img style="border-radius: 20px; height: 200px;" src="https://raw.githubusercontent.com/Everblush/.github/main/assets/term.png" alt="everblush-syntax">
