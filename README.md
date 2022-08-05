@@ -119,6 +119,9 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [Zathura](https://github.com/Everblush/zathura)
 - [Rofi](https://github.com/Everblush/rofi)
 
+## Browsers
+- [Qutebrowser](https://github.com/Everblush/qutebrowser)
+
 ## Wallpaper 
 - [Wallpapers](https://github.com/Everblush/wallpapers)
 
