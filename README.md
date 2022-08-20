@@ -2,10 +2,6 @@
 <img align="center" src="./assets/logo.png" height="200px" width="200px" alt="logo"> 
 </div> 
 
-<div align="center">
-<img style="border-radius: 20px; height: 200px;" src="https://raw.githubusercontent.com/Everblush/.github/main/assets/term.png" alt="everblush-syntax">
-</div> 
-
 <h1 align="center">Everblush</h1> 
 <h4 align="center"><i>A Dark, Vibrant and Beatiful colorscheme for your desktop</i></h4> 
 
