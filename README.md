@@ -6,7 +6,7 @@
 <h4 align="center"><i>A Dark, Vibrant and Beatiful colorscheme for your desktop</i></h4> 
 
 
-<div class="center">
+<div align="center">
 <a href="https://discord.gg/KmARmpTegP">
 <img alt="Discord" src="https://img.shields.io/discord/989429995925553182?color=%2367b0e8&label=DISCORD&logo=discord&logoColor=%236cb5ed&style=for-the-badge">
 </a> 
@@ -112,7 +112,7 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [Discord](https://github.com/Everblush/Discord)
 - [Telegram](https://github.com/Everblush/telegram)
 
-## Miscallaneous 
+## Miscellaneous 
 - [Bat](https://github.com/Everblush/bat)
 - [Fzf](https://github.com/Everblush/fzf)
 - [Zathura](https://github.com/Everblush/zathura)
@@ -127,10 +127,3 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 
 ## Contribution
 - The contribution details will be soon released as they are WIP. 
-
-
-<div align="center">
-<img style="border-radius: 20px; height: 100px;" src="https://raw.githubusercontent.com/Everblush/.github/main/assets/term.png" alt="everblush-syntax">
-</div> 
-
-
