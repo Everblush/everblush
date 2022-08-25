@@ -117,6 +117,7 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [Fzf](https://github.com/Everblush/fzf)
 - [Zathura](https://github.com/Everblush/zathura)
 - [Rofi](https://github.com/Everblush/rofi)
+- [Spotify](https://github.com/Everblush/spotify)
 
 ## Browsers
 - [Qutebrowser](https://github.com/Everblush/qutebrowser)
