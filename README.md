@@ -134,5 +134,5 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 [![AlphaTechnolog](https://github.com/AlphaTechnolog.png?size=60)](https://github.com/AlphaTechnolog)
 [![pluffie](https://github.com/pluffie.png?size=60)](https://github.com/pluffie)
 [![Syndrizzle](https://github.com/Syndrizzle.png?size=60)](https://github.com/Syndrizzle)
-<!-- [![diniamo](https://github.com/diniamo.png?size=60)](https://github.com/diniamo)
-[![Qwickdom](https://github.com/Qwickdom.png?size=60)](https://github.com/Qwickdom) -->
+[![Qwickdom](https://github.com/Qwickdom.png?size=60)](https://github.com/Qwickdom)
+<!-- [![diniamo](https://github.com/diniamo.png?size=60)](https://github.com/diniamo) -->
