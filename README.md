@@ -90,7 +90,6 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [Vim](https://github.com/Everblush/everblush.vim)
 - [Neovim](https://github.com/Everblush/everblush.nvim)
 - [VsCode](https://github.com/Everblush/vscode)
-- [Sublime Text](https://github.com/Everblush/subl)
 - [Obsidian](https://github.com/Everblush/Obsidian) - (markdown editor)
 - [Doom Emacs](https://github.com/Everblush/doomemacs)
 - [Emacs](https://github.com/Everblush/emacs)
@@ -128,11 +127,4 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [Wallpapers](https://github.com/Everblush/wallpapers)
 
 ## Contribution
-[![Mangeshrex](https://github.com/Mangeshrex.png?size=60)](https://github.com/Mangeshrex)
-[![samuelnihbos](https://github.com/samuelnihbos.png?size=60)](https://github.com/samuelnihbos)
-[![justleoo](https://github.com/justleoo.png?size=60)](https://github.com/justleoo)
-[![AlphaTechnolog](https://github.com/AlphaTechnolog.png?size=60)](https://github.com/AlphaTechnolog)
-[![pluffie](https://github.com/pluffie.png?size=60)](https://github.com/pluffie)
-[![Syndrizzle](https://github.com/Syndrizzle.png?size=60)](https://github.com/Syndrizzle)
-[![Qwickdom](https://github.com/Qwickdom.png?size=60)](https://github.com/Qwickdom)
-<!-- [![diniamo](https://github.com/diniamo.png?size=60)](https://github.com/diniamo) -->
+- The contribution details will be soon released as they are WIP. 
