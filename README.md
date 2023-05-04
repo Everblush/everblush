@@ -115,6 +115,7 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 
 ## Miscellaneous 
 - [Bat](https://github.com/Everblush/bat)
+- [Cava](https://github.com/Everblush/cava)
 - [Fzf](https://github.com/Everblush/fzf)
 - [Zathura](https://github.com/Everblush/zathura)
 - [Rofi](https://github.com/Everblush/rofi)
