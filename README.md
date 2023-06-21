@@ -98,12 +98,12 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 ## Terminal Emulators 
 - [Gnome-Terminal](https://github.com/Everblush/terminal-emulators/tree/main/src/gnome-terminal)
 - [Tym](https://github.com/Everblush/terminal-emulators/tree/main/src/tym)
-- [Kitty](https://github.com/Everblush/terminal-emulators/blob/main/src/kitty.conf)
-- [Alacritty](https://github.com/Everblush/terminal-emulators/blob/main/src/alacritty.yml)
+- [Kitty](https://github.com/Everblush/terminal-emulators/tree/main/src/kitty)
+- [Alacritty](https://github.com/Everblush/terminal-emulators/tree/main/src/alacritty)
 - [Xfce4-Terminal](https://github.com/Everblush/terminal-emulators/tree/main/src/xfce4-terminal)
 - [Xresource](https://github.com/Everblush/terminal-emulators/blob/main/src/Xresources)
 - [Termux](https://github.com/Everblush/termux)
-- [Foot](https://github.com/Everblush/terminal-emulators/blob/main/src/foot.ini)
+- [Foot](https://github.com/Everblush/terminal-emulators/tree/main/src/foot)
 - [iTerm2](https://github.com/Everblush/terminal-emulators/tree/main/src/iterm2)
 
 ## GTK 
